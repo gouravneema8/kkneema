@@ -30,7 +30,7 @@ function Home()
                         </p>
                     </div>
                     <div class="col-6">
-               <img src="kkneema.jpg" alt="reload" height="350px" width="100%"/> 
+               <img src="kkneema.jpg" alt="reload" height="100%" width="100%"/> 
                     </div>
                </div>
                           
