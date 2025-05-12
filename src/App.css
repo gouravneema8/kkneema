@@ -1,0 +1,120 @@
+@media screen and (min-width:1000px)  and (max-width:1400px){
+ 
+  .setcard
+  {
+      float: left;
+       margin: 13px; 
+       border: 2px solid black;  
+  }
+  .card-body
+  {
+      background-color:orange;
+  
+  }
+  
+  .footer
+  {
+      background-color: orange;
+      height: 60px;
+      clear: both;
+      border-top: 2px solid black;
+      width: 100%;
+  }
+  body
+  {
+      background-color:whitesmoke;
+      border:2px solid black;
+  }
+  .intro
+  {
+   
+   padding-top: 8px;
+    font-size: 17px;
+      text-transform: capitalize;
+      text-align: justify;
+      font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  }
+  
+.copychange
+{
+  padding-top: 20px;
+}
+
+.footer1
+{
+  display:none;
+}
+.bhajhan-list-mobile
+{
+  display: none;
+}
+.hrwidth
+{
+  width: 50%;
+}
+
+}
+
+
+@media screen and (min-width:200px)  and (max-width:999px){
+
+  .footer1
+  {
+      background-color: orange;
+      height: 50px;
+      clear: both;
+      border: 2px solid black;
+      width: 100%;
+  }
+ .set-contact-text
+ {
+  font-size: small;
+ }
+.footer
+{
+  display: none;
+}
+.copychange
+{
+  font-size: 9px;
+  padding-top:15px;
+}
+.intro
+{
+   font-size: 12px;
+   text-transform: capitalize;
+   text-align: justify;
+   font-family: "Poppins", sans-serif;
+   font-weight: 400;
+   font-style: italic;
+  }
+.bhajhan-list-desktop
+{
+  display: none;
+}
+.bhajan-list
+{
+  font-size: 12px;
+}
+
+.bhajan-button
+{
+  height:30px;
+  font-size: 8px;
+}
+.setcard
+  {
+    
+       margin-top: 5px; 
+    }
+  
+.hrwidth
+{
+  width: 70%;
+}
+
+  
+}
+
