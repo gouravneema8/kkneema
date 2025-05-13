@@ -16,7 +16,7 @@ function Model1(props)
        {/* Button trigger modal */}
 
        {/* Button trigger modal */}
-<button type="button" className="btn btn-primary" data-bs-toggle="modal" data-bs-target={props.target1}>
+<button type="button" className="btn btn-primary smallsizebutton" data-bs-toggle="modal" data-bs-target={props.target1}>
     Click here to listen    
 </button>
   

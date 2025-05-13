@@ -43,7 +43,7 @@ function Home()
 <div className="row">
 <div className="col">
 
-    <center><h1>Introduction</h1><hr style={{width: 400}}/></center>
+    <center><h3>Introduction</h3><hr style={{width: 400}}/></center>
     </div>    
 </div>
                 <div className="row">
@@ -95,7 +95,7 @@ function Home()
         
 
 <div class="container-fluid bhajhan-list-mobile">  
-<center><h1>All the Bhajans list Writtern by Mr. Kamal Kishore Neema</h1><hr style={{width: 400}}/></center>
+<center><h3>All the Bhajhans list Writtern by Mr. Kamal Kishore Neema</h3><hr style={{width: 400}}/></center>
 <ul>
 
         <Model1 id1="b1" target1="#b1" name1="aa1" title1="Bolo Jai Mahakaal" link1="https://www.youtube.com/embed/m_ZhrV7tJwo?si=ulpoJqFVen8nditO"/>

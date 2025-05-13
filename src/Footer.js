@@ -11,7 +11,7 @@ function Footer()
     <div class="col-4">
       
         <h5 class="set-contact-text">Contact :- 9926958926</h5>
-       <h5 class="set-contact-text">Email :- Gourav.neema8@gmail.com</h5></div>
+       <h5 class="set-contact-text">Email :-kkneema1946@gmail.com</h5></div>
     
 </div>
 </div>
@@ -25,7 +25,7 @@ function Footer()
       <div class="col-8">
         
      <h6 class="set-contact-text">Contact :-9926958926</h6>
-         <h6 class="set-contact-text">Email :- Gourav.neema8@gmail.com</h6></div>
+         <h6 class="set-contact-text">Email :- kkneema1946@gmail.com</h6></div>
       
   </div>
 </div>
