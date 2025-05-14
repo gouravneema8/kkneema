@@ -21,7 +21,7 @@ function Menu()
           <Navbar.Brand style={{color:"black"}}>KKNeema</Navbar.Brand>
           <Nav className="me-auto">
           <Navbar.Brand><NavLink to='/' style={{textDecoration:"none",color:"black"}}>Home</NavLink></Navbar.Brand>
-          <Navbar.Brand><NavLink to='/Bhajhan' style={{textDecoration:"none",color:"black"}}>Bhajhan</NavLink></Navbar.Brand>
+          <Navbar.Brand><NavLink to='/Bhajhan' style={{textDecoration:"none",color:"black"}}>Bhajan</NavLink></Navbar.Brand>
           <Navbar.Brand><NavLink to='/Poem' style={{textDecoration:"none",color:"black"}}>Poem</NavLink></Navbar.Brand>
           <Navbar.Brand><NavLink to='/Aboutus' style={{textDecoration:"none",color:"black"}}>About</NavLink></Navbar.Brand>
 
@@ -39,7 +39,7 @@ function Menu()
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
             <Navbar.Brand><NavLink to='/' style={{textDecoration:"none",color:"black"}}>Home</NavLink></Navbar.Brand>
-          <Navbar.Brand><NavLink to='/Bhajhan' style={{textDecoration:"none",color:"black"}}>Bhajhan</NavLink></Navbar.Brand>
+          <Navbar.Brand><NavLink to='/Bhajhan' style={{textDecoration:"none",color:"black"}}>Bhajan</NavLink></Navbar.Brand>
           <Navbar.Brand><NavLink to='/Poem' style={{textDecoration:"none",color:"black"}}>Poem</NavLink></Navbar.Brand>
           <Navbar.Brand><NavLink to='/Aboutus' style={{textDecoration:"none",color:"black"}}>About</NavLink></Navbar.Brand>          
           </Nav>
