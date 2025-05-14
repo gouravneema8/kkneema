@@ -75,7 +75,7 @@ function Home()
 
 
 <div class="container-fluid bhajhan-list-desktop">  
-<center><h1>All the Bhajans list Writtern by Mr. Kamal Kishore Neema</h1><hr style={{width: 400}}/></center>
+<center><h1>All the Bhajans list Written by Mr. Kamal Kishore Neema</h1><hr style={{width: 400}}/></center>
 <ul>
 
         <Model id="a1" target="#a1" name="aa1" title="Bolo Jai Mahakaal || Shiv ji Bhajhan" link="https://www.youtube.com/embed/m_ZhrV7tJwo?si=ulpoJqFVen8nditO"/>
@@ -95,7 +95,7 @@ function Home()
         
 
 <div class="container-fluid bhajhan-list-mobile">  
-<center><h3>All the Bhajhans list Writtern by Mr. Kamal Kishore Neema</h3><hr style={{width: 400}}/></center>
+<center><h3>All the Bhajans list Written by Mr. Kamal Kishore Neema</h3><hr style={{width: 400}}/></center>
 <ul>
 
         <Model1 id1="b1" target1="#b1" name1="aa1" title1="Bolo Jai Mahakaal" link1="https://www.youtube.com/embed/m_ZhrV7tJwo?si=ulpoJqFVen8nditO"/>
