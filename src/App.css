@@ -58,6 +58,11 @@
   display: none;
 }
 
+.menu1
+{
+  border-bottom: 2px solid black;
+}
+
 }
 
 
@@ -110,7 +115,7 @@
 }
 .setcard
   {
-    
+  
        margin-top: 5px; 
     }
   
@@ -123,11 +128,22 @@
 {
   display: none;
 }
+.menu1
+{
   
+  border-bottom: 2px solid black;
+}
+  body
+  {
+    border: 2px solid black;
+  }
+
+  
+
 }
 
 
-@media screen and (min-width:200px)  and (max-width:410px){
+@media screen and (min-width:0px)  and (max-width:410px){
 
   .footer
 {
@@ -188,5 +204,8 @@
 {
   display: none;
 }
-
+body
+  {
+    border: 2px solid black;
+  }
 }
